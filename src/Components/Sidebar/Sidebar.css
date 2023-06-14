@@ -1,0 +1,67 @@
+/*.sidebar-list {*/
+/*    margin-top: 64px;*/
+/*}*/
+
+.MuiDrawer-paper {
+    top: 64px !important;
+    left: 0 !important;
+    bottom: 0 !important;
+    position: fixed !important;
+    height: auto !important;
+    overflow-y: hidden !important;
+    overflow-x: hidden !important;
+}
+
+.MuiDrawer-paper:hover {
+    overflow-y: auto !important;
+}
+
+.MuiDrawer-paperAnchorDockedLeft {
+    border-right: none !important;
+}
+
+.list-text span {
+    font-size: 0.9rem;
+}
+
+.list-icon {
+    color: rgba(0, 0, 0, 0.62);
+    /*min-width: 42px;*/
+}
+
+.bottom-inks {
+    padding: 16px 24px 0;
+    white-space: normal;
+}
+
+.bottom-inks a {
+    display: inline-block;
+    margin-right: 8px;
+    color: #606060;
+    font-size: 0.8rem;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.bottom-inks a:hover {
+    text-decoration: none;
+}
+
+.sec-bottom-links {
+    padding-top: 12px;
+}
+
+.sidebar-signin {
+    padding: 16px 24px;
+}
+
+.signin-title {
+    margin-bottom: 13px !important;
+    font-size: 0.86rem !important;
+    line-height: 1.3rem !important;
+    color: #030303;
+}
+
+.sidebar-signin .makeStyles-signInBtn-43 {
+    padding: 5px 12px !important;
+}

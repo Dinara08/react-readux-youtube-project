@@ -1,0 +1,31 @@
+.MuiIconButton-root:hover {
+    background-color: transparent !important;
+}
+
+.makeStyles-menuButton-2:hover {
+    background-color: transparent !important;
+}
+
+img {
+    max-width: 100%;
+}
+
+.accListText span {
+    font-size: 0.87rem !important;
+    color: #111111 !important;
+}
+
+.subAccountBlock .MuiList-root .MuiList-root {
+    padding: 0 !important;
+}
+
+.acc-text span {
+    font-size: 0.92rem !important;
+}
+
+.MuiMenu-paper {
+    right: 0 !important;
+    left: auto !important;
+    top: 64px !important;
+}
+
